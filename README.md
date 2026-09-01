@@ -100,6 +100,24 @@ Data Visualization
 Interactive Power BI Dashboard
      ↓
 Insights & Analysis
-
+```
 ---
 
+## 📊 Dashboard Screenshots
+
+### 🏠 Overview
+![Overview Dashboard](Screenshots/overview.png)
+
+### 👥 Users
+![Users Dashboard](Screenshots/users.png)
+
+### 📱 Usage
+![Usage Dashboard](Screenshots/usage.png)
+
+### ❤️ Digital Wellbeing
+![Digital Wellbeing Dashboard](Screenshots/wellbeing.png)
+
+### ❓ Q&A
+![Q&A Dashboard](Screenshots/qa.png)
+
+---
